@@ -164,3 +164,9 @@ Esta consulta:
 * Personalmente, me pareció excelente el contenido para introducirse en el mundo de las bases de datos relacionales. Considero que la información está bien organizada, es clara y fácil de comprender, lo que facilita el aprendizaje incluso para quienes no tienen experiencia previa en el tema. Me pareció muy práctico, con ejemplos bien planteados que permiten aplicar los conceptos de manera efectiva.
 
 En mi caso, ya tengo varios años de experiencia en el mundo laboral de la programación y estoy familiarizado con este tipo de bases de datos, por lo que no me resultó complicado realizar las prácticas propuestas. Sin embargo, me pareció interesante la manera en que se abordaron los temas y la metodología utilizada para transmitir los conocimientos.
+
+## participantes:
+
+- Relly Garcia, C.I: 27561321
+- Mauricio Freites, C.I: 19202051
+- Cleismer Guerra, C.I: 29697213
